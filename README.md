@@ -15,18 +15,20 @@ Success was measured through several key metrics:
     Performance Metrics: Load times and server response times were closely tracked to ensure a smooth user experience.
     User Feedback: Collected through surveys and direct feedback, which helped in iterating and improving the platform continuously.
 # Backend (MongoDB database in MongoAtlas)
-![image](https://github.com/Kashan724/MERN-Social-Media-Application-implementing-Auth-Likes-Dislikes-and-Friends/assets/112327092/e49aef80-10e0-44f0-b7ac-a10d44844f89)
+![image](https://github.com/Kashan724/MERN-Stack-Social-Media-Application-Implementing-Posts-Likes-and-DisLikes/assets/112327092/f0168f2f-30e9-4f79-8598-dda47188bb22)
 
  # Sign up Page
- ![image](https://github.com/Kashan724/MERN-Social-Media-Application-implementing-Auth-Likes-Dislikes-and-Friends/assets/112327092/77aab7c1-57bd-4616-85ad-f29ca9c37743)
- # Login Page
- ![image](https://github.com/Kashan724/MERN-Social-Media-Application-implementing-Auth-Likes-Dislikes-and-Friends/assets/112327092/53f7a5c0-8e8f-4510-a3d5-4d819d495d1e)
+ ![image](https://github.com/Kashan724/MERN-Stack-Social-Media-Application-Implementing-Posts-Likes-and-DisLikes/assets/112327092/c617d065-3702-4022-8c41-019a5d1dcd81)
+
 # Home Page for User
-![image](https://github.com/Kashan724/MERN-Social-Media-Application-implementing-Auth-Likes-Dislikes-and-Friends/assets/112327092/83a1dc00-637c-4a15-80af-b1bb4768909d)
+![image](https://github.com/Kashan724/MERN-Stack-Social-Media-Application-Implementing-Posts-Likes-and-DisLikes/assets/112327092/9b10f85b-0def-48df-9acd-26466a7e9243)
 # Adding Post
-![image](https://github.com/Kashan724/MERN-Social-Media-Application-implementing-Auth-Likes-Dislikes-and-Friends/assets/112327092/d1fe1ca2-afdc-4b03-967a-742b55696f43)
+![image](https://github.com/Kashan724/MERN-Stack-Social-Media-Application-Implementing-Posts-Likes-and-DisLikes/assets/112327092/bae5e047-3e62-4a81-8afb-022cd2feaf42)
+![image](https://github.com/Kashan724/MERN-Stack-Social-Media-Application-Implementing-Posts-Likes-and-DisLikes/assets/112327092/a16ab250-2899-4176-aa7c-e1e2939c4a62)
+
 # Visiting another user profile and Dark Mode
-![image](https://github.com/Kashan724/MERN-Social-Media-Application-implementing-Auth-Likes-Dislikes-and-Friends/assets/112327092/8f0197e7-d36e-479c-95f0-8e62655ab6e1)
+![image](https://github.com/Kashan724/MERN-Stack-Social-Media-Application-Implementing-Posts-Likes-and-DisLikes/assets/112327092/16b0a9a8-89ac-43ad-8a1e-b872a3268d0d)
 # Friends List
-![image](https://github.com/Kashan724/MERN-Social-Media-Application-implementing-Auth-Likes-Dislikes-and-Friends/assets/112327092/49342f42-72e4-496b-bc45-ebbc9878dc32)
+![image](https://github.com/Kashan724/MERN-Stack-Social-Media-Application-Implementing-Posts-Likes-and-DisLikes/assets/112327092/6cda9df1-431b-4c65-91b7-2c87fc6c06af)
+
 
